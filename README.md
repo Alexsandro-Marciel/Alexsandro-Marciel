@@ -1,6 +1,5 @@
-### Meu nome é Alexsandro e sou estudante de programação.
+### Meu nome é Alexsandro e sou estudante de Programação.
 
-Ainda não estou trabalhando com programção, mas pretendo brevemente iniciar na área.<br>
 Estou iniciando meus estudos de HTML, CSS, Javascript, Python e PHP.
 
 <div align="center">
