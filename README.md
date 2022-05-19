@@ -4,8 +4,8 @@ Estou iniciando meus estudos de HTML, CSS, Javascript, Python e PHP.
 
 <div align="inline_block">
   <a href="https://github.com/Alexsandro-Marciel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Marciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-marciel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Marciel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-marciel&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
   <div style="display: inline_block"><br>
