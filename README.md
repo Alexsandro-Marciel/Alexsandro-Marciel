@@ -20,13 +20,13 @@ Estou iniciando meus estudos de HTML, CSS, Javascript, Python e PHP.
 </div>
   
   ##
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
   
-  <a href="https://www.instagram.com/alexsandromarciel/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/alexsandromarciel/?hl=pt-br" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   
-  <a href="https://www.linkedin.com/in/alexsandro-marciel-042630a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alexsandro-marciel-042630a6/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
     
-  <a href="https://www.youtube.com/channel/UCKcNLateJnkpp-n7hE5342Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
+  <a href="https://www.youtube.com/channel/UCKcNLateJnkpp-n7hE5342Q" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>  
  
    <a href="https://www.facebook.com/settings?tab=account&section=username" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
     
