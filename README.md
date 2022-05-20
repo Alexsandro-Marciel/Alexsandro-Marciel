@@ -6,7 +6,7 @@ Estou iniciando meus estudos de HTML, CSS, Javascript, Python e PHP.
   <a href="https://github.com/Alexsandro-Marciel">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Marciel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Marciel&layout=compact&theme=merko&langs_count=8)](https://github.com/Alexsandro-Marciel/github-readme-stats"/>
-    
+   
    
 </div>
   
