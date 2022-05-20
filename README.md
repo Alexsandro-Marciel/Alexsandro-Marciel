@@ -1,14 +1,11 @@
 ### Meu nome é Alexsandro e sou estudante de Programação.
 
 Estou iniciando meus estudos de HTML, CSS, Javascript, Python e PHP.
-
 <div align="inline_block">
   <a href="https://github.com/Alexsandro-Marciel">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Marciel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Marciel&layout=compact&theme=merko&langs_count=8)](https://github.com/Alexsandro-Marciel/github-readme-stats"/>
-   
-   
-</div>
+ </div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
